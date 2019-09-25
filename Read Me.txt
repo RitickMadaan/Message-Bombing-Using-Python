@@ -1,0 +1,5 @@
+In this programme, we use selenium for browser automation with Python, the same can also be done using Java only the sintax will be a bit different.
+
+Basically we send request amazon for login O.T.P for the given number. The max no of times amazon allows to send otp is 20 so it is better to keep the frequency to 20(the no of times loop is to be run).
+
+You can get to know  about the "class names" or "id" of a particular object by inspecting(by right clicking on the object whether a button or an input field)
